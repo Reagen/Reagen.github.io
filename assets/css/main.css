@@ -2574,7 +2574,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		position: relative;
 		margin: -2.5em 0 0 -2.5em;
-		max-width: 800px;
+		max-width: 900px;
 		margin-left: auto;
 		margin-right: auto;
 	}
